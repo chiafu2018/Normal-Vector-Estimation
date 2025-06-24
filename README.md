@@ -32,7 +32,7 @@ pclpy_normal.py: algorithm estimating normal vectors
 pclpy_poly.py: algorithm estimating normal vectors             
 
 ## Video Link 
-https://drive.google.com/file/d/1O_zOlRpkffZDXiX0jzWqyexz5RCrZJAL/view?usp=sharing  
+https://youtu.be/F6OcFUYvCwY      
 
 ## License
 Due to the privacy policy, I can only provide the code for calculating the normal vector estimation.
